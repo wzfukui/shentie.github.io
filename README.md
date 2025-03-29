@@ -6,4 +6,4 @@
 
 ## 官方网站
 
-[shentie.cuihuaer.com](https://shentie.cuihuaer.com)
+[https://shentie.cuihuaer.com](https://shentie.cuihuaer.com)
